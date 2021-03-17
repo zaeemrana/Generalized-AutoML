@@ -1,0 +1,3 @@
+MODELNAME,VERSION,RESPONSE_GRP,FEATURE_SET,PRED_SET,USE_STREAM,DAYS_BACK_TO_PULL,DAYS_TILL_EXPIRE,DAYS_TO_UPDATE_AFTER
+test_reg,1,reg_grp,reg_feature_set,reg_pred_set,False,0,0,0
+test_class,1,class_grp,class_feature_set,class_pred_set,False,0,0,0
